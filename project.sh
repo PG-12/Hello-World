@@ -11,11 +11,5 @@ ${ORANGE}#       #    #  ##        #  #    #
 ${ORANGE}#       #    #  ##        #  #    #
 ${ORANGE}#       #    #  ##  #######  #    #
 
-{GREEN}[${WHITE}-${GREEN}]${CYAN}  MY NAME IS PRINCE GUTIERREZ THIS IS THE LOGO
 
-${ORANGE}#####  #####  #  ##    #    ###  ####
-${ORANGE}#   #  #   #  #  # #   #   ##    #
-${ORANGE}#####  #####  #  #  #  #  ##     ####
-${ORANGE}#      #  #   #  #   # #   ##    #
-${ORANGE}#      #   #  #  #    ##    ###  ####
 
